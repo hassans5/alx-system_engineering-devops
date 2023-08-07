@@ -1,5 +1,2 @@
-#!/bin/bashcat /etc/passwd /etc/hosts
-^C
-
- git add . && git commit -m 'a' && git push[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D
-
+n/bashcat /etc#!/bin/bash
+cat /etc/passwd /etc/hosts
